@@ -1,3 +1,3 @@
-module w62/gola
+module github.com/w62/gola
 
 go 1.19
